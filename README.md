@@ -56,3 +56,5 @@ To see how this lens works in action:
 ## 🔧 Translation Note
 
 *This English version was translated and refined with the assistance of ChatGPT.*
+
+📝 This repository is licensed under CC BY 4.0.
