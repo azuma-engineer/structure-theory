@@ -9,7 +9,7 @@ And since every constituent can also be a structure body for another, protecting
 ## 📘 Core Definitions
 
 - **Structure Body（構造体）**
-  A constructed entity formed by arranging multiple components (構成子) according to a given framework (骨組み).
+  A constructed entity formed by arranging multiple components (構成子) according to a given framework (枠組み).
 
 - **Structure（構造）**
   The abstract pattern of relationships among components within a structure body.
@@ -17,7 +17,7 @@ And since every constituent can also be a structure body for another, protecting
 - **Constituents（構成子）**
   The smallest functional units that make up a structure body.
 
-- **Framework（骨組み）**
+- **Framework（枠組み）**
   The design principles or constraints that determine how constituents are arranged within a structure body.
 
 ## 🧭 Why Structural Theory?
