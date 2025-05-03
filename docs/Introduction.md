@@ -41,9 +41,9 @@ Then expand it outward—to
 
 families, teams, cities, systems, and societies.
 
-To see how this lens works in action:
+→ To see how this lens works in action, see:
+**Education Gap as Structural Distortion.**
 
-→ Education Gap as Structural Distortion
 
 
 ## 🔧 Translation Note
