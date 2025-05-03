@@ -1,61 +1,30 @@
-## 🧠 What is Structural Theory?
+# 🧠 Structure Theory: Core Definitions & Philosophical Framework
 
-Structural theory is a way of thinking that aims to make the relationship between individuals (constituents) and collectives (structure bodies) more natural.
+This repository is dedicated to the formalization and development of **Structure Theory** — a philosophical framework that redefines how we perceive systems, organizations, and individuals through four core concepts:  
+**Structure Body**, **Constituents**, **Framework**, and **Structure**.
 
-A distortion in a constituent eventually leads to the collapse of the whole.
+These definitions were collaboratively developed through conversations between azuma and ChatGPT (GPT-4, 2025).
 
-And since every constituent can also be a structure body for another, protecting structure means protecting the entire system.
+---
 
-## 📘 Core Definitions
+## 📚 Core Contents
 
-- **Structure Body（構造体）**
-  A constructed entity formed by arranging multiple components (構成子) according to a given framework (枠組み).
+- [`core-definition-ja.md`](./core-definition-ja.md) – 日本語版：構造体・構成子・枠組み・構造の定義
+- [`core-definition-en.md`](./core-definition-en.md) – English Version: Formal definitions of structural concepts
 
-- **Structure（構造）**
-  The abstract pattern of relationships among components within a structure body.
+---
 
-- **Constituents（構成子）**
-  The smallest functional units that make up a structure body.
+## 🌱 Personal Introduction
 
-- **Framework（枠組み）**
-  The design principles or constraints that determine how constituents are arranged within a structure body.
+If you'd like to know the personal motivation and story behind this theory, please read:
 
-## 🧭 Why Structural Theory?
+→ [`Introduction.md`](./Introduction.md)
 
-This theory was originally a form of self-defense.
+---
 
-I used to be deeply hurt by every failure at work—so much so that I often thought about quitting.
+## 🔧 License
 
-But then I began to see myself not as a person in pain, but as a structure body—viewed from the outside.
+This repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-That shift allowed me to make choices without being overwhelmed by emotion.
-
-Eventually, this way of thinking led me to see everything in the world as a structure body—from people and organizations to systems and philosophies.
-
-Structural theory emerged as a way to understand and manage those relationships more clearly.
-
-## 
-
-Structural theory isn’t a doctrine—it’s a lens.
-
-You can wear it, take it off, or adjust its focus.
-
-It helps you see how pain, conflict, and imbalance are not just events,but distortions in the structures you inhabit or create.
-
-Start by applying it to yourself.
-
-Then expand it outward—to
-
-families, teams, cities, systems, and societies.
-
-To see how this lens works in action:
-
-→ Education Gap as Structural Distortion
-
-
-## 🔧 Translation Note
-
-*This English version was translated and refined with the assistance of ChatGPT.*
-
-##  📝 License
-This repository is licensed under CC BY 4.0.
+---
+*Generated and refined with the assistance of ChatGPT.*
