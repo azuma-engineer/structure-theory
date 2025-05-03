@@ -9,8 +9,8 @@ These definitions were collaboratively developed through conversations between a
 
 ## 📚 Core Contents
 
-- [`core-definition-ja.md`](./core-definition-ja.md) – 日本語版：構造体・構成子・枠組み・構造の定義
-- [`core-definition-en.md`](./core-definition-en.md) – English Version: Formal definitions of structural concepts
+- [`core-definition-ja.md`](./docs/core-definition-ja.md) – 日本語版：構造体・構成子・枠組み・構造の定義
+- [`core-definition-en.md`](./docs//core-definition-en.md) – English Version: Formal definitions of structural concepts
 
 ---
 
@@ -18,7 +18,7 @@ These definitions were collaboratively developed through conversations between a
 
 If you'd like to know the personal motivation and story behind this theory, please read:
 
-→ [`Introduction.md`](./Introduction.md)
+→ [`Introduction.md`](./docs//Introduction.md)
 
 ---
 
