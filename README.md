@@ -7,6 +7,14 @@ These definitions were collaboratively developed through conversations between a
 
 ---
 
+## 📑 Table of Contents
+
+- [Core Contents](#core-contents)
+- [Personal Introduction](#personal-introduction)
+- [License](#license)
+
+---
+
 ## 📚 Core Contents
 
 - [`core-definition-ja.md`](./docs/core-definition-ja.md) – 日本語版：構造体・構成子・枠組み・構造の定義
