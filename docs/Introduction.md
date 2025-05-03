@@ -8,17 +8,10 @@ And since every constituent can also be a structure body for another, protecting
 
 ## 📘 Core Definitions
 
-- **Structure Body（構造体）**
-  A constructed entity formed by arranging multiple components (構成子) according to a given framework (枠組み).
-
-- **Structure（構造）**
-  The abstract pattern of relationships among components within a structure body.
-
-- **Constituents（構成子）**
-  The smallest functional units that make up a structure body.
-
-- **Framework（枠組み）**
-  The design principles or constraints that determine how constituents are arranged within a structure body.
+* **Structure Body**: A dynamic entity composed of constituents arranged according to a specific framework.
+* **Constituent**: The smallest functional and meaningful unit. Recursive in nature—it can become a structure body when viewed from a different scale.
+* **Framework**: A principle of constraint and design that regulates the arrangement and meaning of constituents. Often invisible and hierarchical.
+* **Structure**: An evaluative cross-section of constituent relationships and forces. Functions as a relational mechanics that defines the characteristics of the structure body.
 
 ## 🧭 Why Structural Theory?
 
