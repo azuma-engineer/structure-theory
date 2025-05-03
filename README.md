@@ -9,9 +9,9 @@ These definitions were collaboratively developed through conversations between a
 
 ## 📑 Table of Contents
 
-- [Core Contents](#core-contents)
-- [Personal Introduction](#personal-introduction)
-- [License](#license)
+- [Core Contents](##core-contents)
+- [Personal Introduction](##personal-introduction)
+- [License](##license)
 
 ---
 
