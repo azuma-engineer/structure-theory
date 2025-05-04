@@ -17,16 +17,18 @@ These definitions were collaboratively developed through conversations between a
 
 ## 📚 Core Contents
 
-- [`core-definition-ja-orig.md`](./docs/core-definition-ja-orig.md) – 日本語版：構造体・構成子・枠組み・構造の定義
-- [`core-definition-en.md`](./docs//core-definition-en.md) – English Version: Formal definitions of structural concepts
+- [`1 Constructing an Intellectual Framework Through Redefinition(EN)`](./docs/1_Constructing_an_Intellectual_Framework_Through_Redefinition_en.md) – English Ver
+- [`1 Constructing an Intellectual Framework Through Redefinition(JP)`](./docs/1_Constructing_an_Intellectual_Framework_Through_Redefinition_jp-orig.md) – 日本語版(Original)
 
+- [`2_A Philosophical Treatise on Common Sense and Structure(EN)`](./docs/2_A_Philosophical_Treatise_on_Common_Sense_and_Structure_en.md) – English Ver
+- [`2_A_Philosophical_Treatise_on_Common_Sense_and_Structure(JP)`](./docs/2_A_Philosophical_Treatise_on_Common_Sense_and_Structure_jp-orig.md) – 日本語版(Original)
 ---
 
 ## 🌱 Personal Introduction
 
 If you'd like to know the personal motivation and story behind this theory, please read:
 
-→ [`Introduction.md`](./docs//Introduction.md)
+→ [`Introduction`](./docs/0_Introduction.md)
 
 ---
 
