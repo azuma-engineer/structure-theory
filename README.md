@@ -19,9 +19,9 @@ These definitions were collaboratively developed through conversations between a
 
 - [`1 Constructing an Intellectual Framework Through Redefinition(EN)`](./docs/1_Constructing_an_Intellectual_Framework_Through_Redefinition_en.md) – English Ver
 - [`1 Constructing an Intellectual Framework Through Redefinition(JP)`](./docs/1_Constructing_an_Intellectual_Framework_Through_Redefinition_jp-orig.md) – 日本語版(Original)
-
-- [`2_A Philosophical Treatise on Common Sense and Structure(EN)`](./docs/2_A_Philosophical_Treatise_on_Common_Sense_and_Structure_en.md) – English Ver
-- [`2_A_Philosophical_Treatise_on_Common_Sense_and_Structure(JP)`](./docs/2_A_Philosophical_Treatise_on_Common_Sense_and_Structure_jp-orig.md) – 日本語版(Original)
+---
+- [`2 A Philosophical Treatise on Common Sense and Structure(EN)`](./docs/2_A_Philosophical_Treatise_on_Common_Sense_and_Structure_en.md) – English Ver
+- [`2 A Philosophical Treatise on Common Sense and Structure(JP)`](./docs/2_A_Philosophical_Treatise_on_Common_Sense_and_Structure_jp-orig.md) – 日本語版(Original)
 ---
 
 ## 🌱 Personal Introduction
