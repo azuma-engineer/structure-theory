@@ -132,3 +132,6 @@ Common sense is an unconscious norm that forms within a structure, serving as an
 > It serves as a litmus test for who is included and who is excluded.  
 > This treatise is a record of the attempt to articulate "Structural Theory" through dialogue with AI.
 
+---
+
+*This English version was translated and adapted by ChatGPT (GPT-4 Omni) under the supervision of azuma.*
