@@ -1,5 +1,3 @@
-# Invisible Order: A Philosophical Treatise on Common Sense and Structure
-
 > **This treatise documents the process of constructing and verbalizing "Structural Theory" through a dialogue between the author, azuma, and OpenAI's ChatGPT (GPT-4 Omni, 2025 version). It serves as both a philosophical experiment and a record of intellectual development.**  
 > _(Published: May 2025)_
 
